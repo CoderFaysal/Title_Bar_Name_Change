@@ -55,8 +55,9 @@ Manifest
 
 <img src="https://i.ibb.co/q0qWF0H/download.png"/>
 
-© All Right Reserved by Coder Faysal
 
+
+<center>© All Right Reserved by Coder Faysal</center>
 
 
 
