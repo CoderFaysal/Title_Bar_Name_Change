@@ -57,7 +57,11 @@ Manifest
 
 
 
-<center>© All Right Reserved by Coder Faysal</center>
+
+
+
+
+© All Right Reserved by Coder Faysal
 
 
 
